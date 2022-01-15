@@ -6,3 +6,6 @@ This is asimple readme file
 
 ##modify
 This will be a third way update
+
+
+Some update to be stashed
